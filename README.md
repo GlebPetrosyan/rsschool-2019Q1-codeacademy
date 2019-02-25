@@ -1,2 +1,2 @@
-Name Surname
-HTML CSS BASICS ...
+Gleb Petrosyan
+https://www.codecademy.com/users/GlebPetrosyan/achievements
